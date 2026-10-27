@@ -1,0 +1,8 @@
+nfc_cards.json
+*.venv
+__pycache__/
+.vscode/*
+MV/*
+effects/*
+laser/*
+*.md
